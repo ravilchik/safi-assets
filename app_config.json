@@ -4,7 +4,18 @@
 			"id": "ru_spb",
 			"name": "Санкт-Петербург",
 			"country": "RU",
-			"path": "v1/schedules/ru/spb/2026/2026_04.csv"
+			"path": "v1/schedules/ru/spb/2026/2026_04.csv",
+			"version": 1,
+			"bbox": [
+				59.63,
+				29.50,
+				60.25,
+				30.75
+			],
+			"center": [
+				59.93,
+				30.33
+			]
 		}
 	]
 }
