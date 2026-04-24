@@ -1,0 +1,10 @@
+{
+	"available_cities": [
+		{
+			"id": "ru_spb",
+			"name": "Санкт-Петербург",
+			"country": "RU",
+			"path": "v1/schedules/ru/spb/2026/2026_04.csv"
+		}
+	]
+}
